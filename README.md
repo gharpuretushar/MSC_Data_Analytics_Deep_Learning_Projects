@@ -1,1 +1,1 @@
-# MSC_Data_Analytics_Projects
+# MSC_Data_Analytics_Deep_Learning_Projects
